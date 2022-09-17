@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDQ2qd0u4Y+57QGNqd6cPg0ZusvWMU2Ivb2fdw8r/3vJ5urfQWdtqmiTLwixBYRdrB4xRamMu2vPiXOyfsBdYWGpWl7oMixLFmFi3brqglK4xtKmx35auunHruULYTPdD2CBcI4xemjheA+9cJ0uX78bo3QcE1EswbxW7fPEp+SIbEVArN8k2nl0Ku82OrizzfY3jr5Xn8Xh+mM04qTdMi9N6lvsUDAMBDMf9xLzzQmRNd0gW48av7JOAl7RLwNfD4WGVHbaukukC6UWNz9YPj8NrvMLxJVOp0KOTI0UBDN5bFsgMQdlG+ZLFkzIAoT+izfUT+KE2w4GMWlp04qoEsgA49iXoZAXzFE8LM3fc+VghIFR3YG5kfthF5qFmDuriSwljG35/M/orF/YKShi+2Uh8SxPffoCQ+h4pOtOryhQ7TMl5YbuWIr1QRiuzRunbA3nEEaE1AmW7H+DxB7XNbx8jkP0cl4aBjEof66ouHyyPYsHTiH791FmA7cHiC20Js= jackal@Serenity"
+        ]
+      }
+    ]
+  }
+}
